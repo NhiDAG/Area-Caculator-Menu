@@ -1,0 +1,14 @@
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+D:\_FPT_\Csharp from VS22\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
